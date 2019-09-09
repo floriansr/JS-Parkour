@@ -65,6 +65,8 @@ function modifTordue() {
   document.getElementsByClassName("row")[1].parentNode.appendChild(div)
 }
 
+// 
+
 changeCallToActions();
 changeTitles();
 changeLogoName();
